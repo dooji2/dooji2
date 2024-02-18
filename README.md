@@ -1,16 +1,26 @@
 ### Hi there 👋
+I'm a nerd, I guess, and am passionate about everything computer-related.
 
-<!--
-**dooji2/dooji2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages I speak
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+-
+### GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dooji2&show_icons=true&theme=radical)
+-
+### Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dooji2&layout=compact)
+-
 
-Here are some ideas to get you started:
+### Cool stuff:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### GitHub Profile Views Counter
+![Profile Views Counter](https://komarev.com/ghpvc/?username=dooji2)
+
+#### GitHub Streak Stats
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=dooji2&theme=radical)
+
+#### GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=dooji2&theme=radical)
