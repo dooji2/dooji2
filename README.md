@@ -6,6 +6,7 @@ I am a very cool person
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)
 -
 ### GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dooji2&show_icons=true&theme=radical)
