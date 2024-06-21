@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a nerd, I guess, and am passionate about everything computer-related.
+I am a very cool person
 
 ### Languages I speak
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
