@@ -1,6 +1,8 @@
 ### Hi there 👋
 I am a very cool person
 
+![Status](https://img.shields.io/badge/Status-I'll_be_back_when_I_finally_learn_some_more_C++-green)
+
 ### Languages I speak
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
