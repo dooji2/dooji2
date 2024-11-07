@@ -95,6 +95,7 @@ I love Java, JavaScript, and a variety of other technologies. I code as a hobby,
 ### 🛠 Top Projects
 
 <p align="center">
+  <a href="https://github.com/dooji2/craftsense"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dooji2&repo=craftsense&theme=tokyonight_duo&hide_border=true" width="300px" alt="CraftSense"></a>
   <a href="https://github.com/dooji2/chinese-ime"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dooji2&repo=chinese-ime&theme=tokyonight_duo&hide_border=true" width="300px" alt="Chinese IME"></a>
   <a href="https://github.com/dooji2/server-notify"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dooji2&repo=server-notify&theme=tokyonight_duo&hide_border=true" width="300px" alt="Server Notify"></a>
 </p>
