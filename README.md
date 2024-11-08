@@ -83,9 +83,6 @@ I love Java, JavaScript, and a variety of other technologies. I code as a hobby,
 
 <p align="center">
   <a href="https://github.com/dooji2">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dooji2&theme=tokyonight_duo&hide_border=true" alt="Dooji's GitHub Streak" width="49%" />
-  </a>
-  <a href="https://github.com/dooji2">
     <img src="https://github-readme-stats.vercel.app/api?username=dooji2&show_icons=true&theme=tokyonight_duo&hide_border=true" width="49%" alt="Dooji's GitHub Stats" />
   </a>
 </p>
