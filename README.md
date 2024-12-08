@@ -1,7 +1,7 @@
-<h1 align="center">Hey there! 👋 I'm Dooji</h1>
+<h1 align="center">hey there! I'm dooji</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=4C8EDA&center=true&vCenter=true&width=435&lines=Passionate+developer+and+tech+enthusiast;Java%2C+Javascript%2C+Python;And+more!;Thanks+for+reading+this!" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=284D92&center=true&width=435&lines=coding+is+fun;java+is+%3C3" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
