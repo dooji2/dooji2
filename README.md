@@ -18,7 +18,7 @@
 
 ---
 
-### about Me
+### about me
 
 I know quite a few programming languages aand um I find making stuff fun :d
 
